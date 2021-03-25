@@ -1,1 +1,2 @@
-# LeetCode-Notes-Waiting
+Waiting's golang LeetCode notes
+
