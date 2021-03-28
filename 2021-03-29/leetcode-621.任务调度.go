@@ -8,6 +8,10 @@ package _021_03_29
  * @modified By：
  * @version    ：$
  */
+
+// 参考题解：https://leetcode-cn.com/problems/task-scheduler/solution/tian-tong-si-lu-you-tu-kan-wan-jiu-dong-by-mei-jia/
+// 参考题解：https://leetcode-cn.com/problems/task-scheduler/solution/ren-wu-diao-du-qi-golangda-bai-100yong-hu-de-jie-f/
+
 func leastInterval(tasks []byte, n int) int {
 	chars := [26]int{}
 	// res记录返回结果
