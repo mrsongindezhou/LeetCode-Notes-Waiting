@@ -13,6 +13,7 @@ package _021_03_29
 // 参考题解：https://leetcode-cn.com/problems/task-scheduler/solution/ren-wu-diao-du-qi-golangda-bai-100yong-hu-de-jie-f/
 
 func leastInterval(tasks []byte, n int) int {
+	// 默认分为26个桶
 	chars := [26]int{}
 	// res记录返回结果
 	res, count := 0, 0
@@ -25,6 +26,10 @@ func leastInterval(tasks []byte, n int) int {
 			count++
 		}
 	}
+	// 如果调度时间为0或者任务类型小于冷却
+	// res记录的是桶的深度，因为桶的最后一层有可能不满，所以此处是res - 1
+	// n是冷却时间，因为是循环♻️执行，所以需要+1，如果这个时间小于任务
+	//
 	if n == 0 || ((res-1)*(n+1)+count < len(tasks)) {
 		return len(tasks)
 	}
