@@ -19,4 +19,9 @@ Waiting's golang LeetCode notes
 - [x] [最长有效括号](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-28/leetcode-32.%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.go)
 - [x] [最大子序和](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-28/leetcode-53.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.go)
 - [x] [最长公共子序列](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-28/leetcode-1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.go)
-- [x] []()
+- [x] [最小路径和](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-28/leetcode-64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.go)
+- [x] [解码方法](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-28/leetcode-91.%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.go)
+
+### 2021-03-29
+- [x] [合并两个有序链表](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-29/leetcode-21.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.go)
+- [x] [任务调度](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-29/leetcode-621.%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6.go)
