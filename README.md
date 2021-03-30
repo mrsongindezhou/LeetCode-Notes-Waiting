@@ -25,3 +25,7 @@ Waiting's golang LeetCode notes
 ### 2021-03-29
 - [x] [合并两个有序链表](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-29/leetcode-21.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.go)
 - [x] [任务调度](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-29/leetcode-621.%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6.go)
+
+### 2021-03-30
+- [x] [数组中前K个高频元素](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-30/leetcode-347.%E6%95%B0%E7%BB%84%E4%B8%AD%E5%89%8Dk%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.go)
+- [x] [用Rand7()实现Rand10()](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-30/leetcode-470.%E7%94%A8Rand7()%E5%AE%9E%E7%8E%B0Rand10().go)
