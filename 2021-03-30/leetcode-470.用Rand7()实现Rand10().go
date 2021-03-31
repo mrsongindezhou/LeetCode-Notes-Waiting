@@ -15,6 +15,7 @@ func rand7() int {
 
 func rand10() int {
 	for {
+		// 公式 (f - 1) * n + f
 		res := (rand7()-1)*7 + rand7()
 		if res <= 40 {
 			return res%10 + 1

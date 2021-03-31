@@ -14,6 +14,8 @@ import "math"
 // https://leetcode-cn.com/problems/coin-change/
 
 func coinChange(coins []int, amount int) int {
+	// dp保存第n元最低多少个硬币
+	// 递推公式 dp[i] = min(dp[i], dp[i-v]+1)
 	dp := make([]int, amount+1)
 	maxNum := math.MaxInt32
 	for i := 0; i < len(dp); i++ {
