@@ -25,3 +25,15 @@ func reverseList(head *ListNode) *ListNode {
 	head.Next = nil
 	return last
 }
+
+// 迭代实现
+func reverseList2(head *ListNode) *ListNode {
+	var pre *ListNode
+	for head != nil {
+		tmp := head.Next
+		head.Next = pre
+		pre = head
+		head = tmp
+	}
+	return pre
+}
