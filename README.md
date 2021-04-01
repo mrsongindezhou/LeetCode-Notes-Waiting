@@ -33,3 +33,11 @@ Waiting's golang LeetCode notes
 
 ### 2021-03-31
 - [x] [数组中的第K个最大元素](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-31/leetcode-215.%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.go)
+- [x] [路径总和](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-31/leetcode-112.%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C.go)
+- [x] [删除排序链表中的重复元素](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-03-31/leetcode-83.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.go)
+
+### 2021-04-01
+- [x] [单词接龙](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-01/leetcode-127.%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.go)
+- [x] [反转链表](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-01/leetcode-206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.go)
+
+
