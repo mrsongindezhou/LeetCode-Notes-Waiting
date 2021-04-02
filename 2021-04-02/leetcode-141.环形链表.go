@@ -1,4 +1,4 @@
-package _021_04_01
+package _021_04_02
 
 /**
  * @author     ：songdehua
@@ -8,6 +8,12 @@ package _021_04_01
  * @modified By：
  * @version    ：$
  */
+
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
 func hasCycle(head *ListNode) bool {
 	if head == nil || head.Next == nil {
 		return false
