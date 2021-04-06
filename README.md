@@ -40,4 +40,6 @@ Waiting's golang LeetCode notes
 - [x] [单词接龙](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-01/leetcode-127.%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.go)
 - [x] [反转链表](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-01/leetcode-206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.go)
 
+### 2021-04-06
+- [x] [topk](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-06/topk.md)
 
