@@ -44,5 +44,5 @@ Waiting's golang LeetCode notes
 - [x] [topk](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-06/topk.md)
 
 ### 2021-04-07
-- [x] []
+- [x] [最长递增子序列](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/tree/main/2021-04-07)
 
