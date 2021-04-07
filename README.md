@@ -45,4 +45,5 @@ Waiting's golang LeetCode notes
 
 ### 2021-04-07
 - [x] [最长递增子序列](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/tree/main/2021-04-07)
+- [x] [多数元素](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-07/leetcode-169.%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.go)
 
