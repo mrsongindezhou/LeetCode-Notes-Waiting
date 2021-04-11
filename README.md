@@ -46,9 +46,12 @@ Waiting's golang LeetCode notes
 ### 2021-04-07
 - [x] [最长递增子序列](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/tree/main/2021-04-07)
 - [x] [多数元素](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-07/leetcode-169.%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.go)
-- [] [青蛙跳台阶](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-07/leetcode-%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6.go)
+- [x] [青蛙跳台阶](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-07/leetcode-%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6.go)
 
 ### 2021-04-08
 - [x] [链表中倒数第k个节点](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-08/leetcode-%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.go)
 - [x] [k个一组反转链表](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-08/leetcode-25.k%E4%B8%AA%E4%B8%80%E7%BB%84%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.go)
+
+### 2021-04-11
+- [x] [旋转图像](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-11/leetcode-48.%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.go)
 
