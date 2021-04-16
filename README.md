@@ -55,3 +55,6 @@ Waiting's golang LeetCode notes
 ### 2021-04-11
 - [x] [旋转图像](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-11/leetcode-48.%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.go)
 
+### 2021-04-16
+- [x] [旋转数组的最小数字](https://github.com/mrsongindezhou/LeetCode-Notes-Waiting/blob/main/2021-04-16/leetcode-154.%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.go)
+
